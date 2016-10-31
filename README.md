@@ -1,2 +1,6 @@
-# My-Awesome-Science-Software2
-Some very clever codes
+My-Awesome-Science-Software
+===========================
+
+Some very clever codes:
+
+- Now with more awesome. 
